@@ -1,0 +1,10 @@
+{
+  "greeting": "Bonjour, je suis",
+  "name": "Kevin Ekwa",
+  "title": "Développeur Full-Stack spécialisé en",
+  "framework1": ".NET",
+  "framework2": "Laravel",
+  "titleSuffix": "pour construire des",
+  "focus": "solutions d'entreprise",
+  "description": "Création d'applications web évolutives avec C#, PHP et des frameworks modernes. Expert en API RESTful, architecture cloud et développement full-stack."
+}

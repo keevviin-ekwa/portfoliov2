@@ -1,0 +1,30 @@
+{
+  "title": "À propos de moi",
+  "description": "Développeur Full-Stack avec plus de 5 ans d'expérience dans la création d'applications d'entreprise avec {{dotnet}} et {{laravel}}. Expert en architecture de {{scalableSystems}}, {{restfulApis}} et {{modernApps}} qui génèrent un impact commercial.",
+  "highlights": {
+    "dotnet": ".NET",
+    "laravel": "Laravel",
+    "scalableSystems": "systèmes évolutifs",
+    "restfulApis": "API RESTful",
+    "modernApps": "applications web modernes"
+  },
+  "skills": {
+    "dotnetDev": {
+      "title": "Développement .NET",
+      "description": ".NET Core/8, C#, ASP.NET, Web API, Entity Framework, LINQ, SignalR, Blazor, Razor, MVC, WPF, WEBForms"
+    },
+    "laravelDev": {
+      "title": "Développement Laravel",
+      "description": "PHP 8+, Laravel 10+, Eloquent ORM, Livewire, Développement d'API, Queue Jobs"
+    },
+    "cloudDevOps": {
+      "title": "Cloud & DevOps",
+      "description": "Azure, AWS, Docker, Kubernetes, CI/CD, Git, Architecture Microservices"
+    },
+    "fullStack": {
+      "title": "Expertise Full-Stack",
+      "description": "React, Vue.js, TypeScript, API RESTful, MySQL, PostgreSQL, Redis"
+    }
+  },
+  "technicalExpertise": "Expertise technique"
+}

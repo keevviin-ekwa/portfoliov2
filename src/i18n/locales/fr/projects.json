@@ -1,0 +1,10 @@
+{
+  "title": "Projets en vedette",
+  "subtitle": "Solutions d'entreprise offrant un impact commercial mesurable",
+  "labels": {
+    "problem": "Problème",
+    "solution": "Solution",
+    "impact": "Impact",
+    "techStack": "Stack technologique"
+  }
+}

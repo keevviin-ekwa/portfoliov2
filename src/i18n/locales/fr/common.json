@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "title": "Kevin Ekwa | Développeur Full-Stack",
+    "description": "Kevin Ekwa - Développeur Full-Stack spécialisé en .NET et Laravel. Construction d'applications d'entreprise évolutives.",
+    "keywords": ".NET, Laravel, PHP, Azure, Cloud, Microservices, Développeur Full-Stack, C#, React, Vue.js"
+  },
+  "buttons": {
+    "sendMessage": "Envoyer le message",
+    "messageSent": "Message envoyé !",
+    "scrollToTop": "Retour en haut",
+    "viewProjects": "Voir les projets",
+    "letsWorkTogether": "Travaillons ensemble"
+  },
+  "form": {
+    "name": "Nom",
+    "email": "Email",
+    "message": "Message",
+    "thankYou": "Merci ! Je vous répondrai bientôt."
+  }
+}

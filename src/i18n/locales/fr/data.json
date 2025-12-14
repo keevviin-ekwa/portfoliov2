@@ -1,0 +1,114 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Plateforme E-Commerce avec Laravel",
+      "description": "Marketplace en ligne complète avec intégration de paiement et inventaire en temps réel",
+      "problem": "Le client avait besoin d'une solution e-commerce évolutive gérant plus de 10 000 transactions quotidiennes avec une gestion d'inventaire complexe",
+      "solution": "Construction d'une plateforme basée sur Laravel avec Livewire pour l'interface réactive, mise en cache Redis et jobs de file d'attente pour le traitement des commandes",
+      "impact": "Plus de 5 M$ de transactions traitées, 99,8% de disponibilité, réduction du temps de chargement de 60%, gestion de plus de 50 000 produits",
+      "tech": ["Laravel 10", "PHP 8", "MySQL", "Redis", "Livewire", "Stripe", "Vue.js", "Docker"]
+    },
+    {
+      "id": 2,
+      "title": "Système ERP d'entreprise",
+      "description": "Plateforme ERP full-stack pour la gestion des opérations de fabrication",
+      "problem": "Le suivi manuel des stocks causait 15% d'écarts de stock et retardait les calendriers de production",
+      "solution": "Architecture d'un ERP basé sur des microservices avec synchronisation d'inventaire en temps réel, workflows automatisés et analyses prédictives",
+      "impact": "40% de réduction des erreurs d'inventaire, 25% plus rapide pour l'exécution des commandes, 2 M$ d'économies annuelles",
+      "tech": [".NET 8", "C#", "Azure", "SQL Server", "React", "TypeScript", "Docker", "Kubernetes"]
+    },
+    {
+      "id": 3,
+      "title": "Système CRM Multi-tenant",
+      "description": "Plateforme CRM SaaS pour gérer les relations clients et les pipelines de vente",
+      "problem": "Les petites entreprises manquaient de CRM abordable et riche en fonctionnalités avec des capacités de personnalisation",
+      "solution": "Développement d'un CRM Laravel multi-tenant avec champs personnalisés, workflows d'automatisation et rapports complets",
+      "impact": "Plus de 200 entreprises intégrées, 95% de satisfaction utilisateur, 500 K$ ARR la première année",
+      "tech": ["Laravel", "PHP", "PostgreSQL", "Eloquent", "Vue.js", "Redis", "Docker", "AWS"]
+    },
+    {
+      "id": 4,
+      "title": "Tableau de bord analytique en temps réel",
+      "description": "Système d'aide à la décision pour cadres avec suivi de KPI en direct",
+      "problem": "Les cadres manquaient de visibilité en temps réel sur les métriques clés à travers 8 unités commerciales",
+      "solution": "Développement d'une plateforme analytique événementielle avec pipelines de données en streaming et visualisations interactives",
+      "impact": "Prise de décision en temps réel activée, cycles de reporting 60% plus rapides, précision des données augmentée à 99,5%",
+      "tech": ["ASP.NET Core", "SignalR", "Redis", "SQL Server", "React", "D3.js", "Web Sockets"]
+    }
+  ],
+  "experiences": [
+    {
+      "id": 1,
+      "company": "LBM Conseils",
+      "role": "Développeur Fullstack",
+      "period": "Avr 2025 – Oct 2025",
+      "description": "Travaillé sur des applications web et des API de niveau entreprise, contribuant aux plateformes internes et externes dans un environnement Agile.",
+      "achievements": [
+        "Développé et optimisé des API REST utilisant .NET 8, améliorant les performances et l'évolutivité.",
+        "Conçu et maintenu des procédures stockées, fonctions et déclencheurs SQL Server complexes.",
+        "Implémenté des pipelines CI/CD utilisant Azure DevOps et géré des API via Azure API Management.",
+        "Collaboré étroitement avec les analystes d'affaires et les chefs de projet pour livrer des solutions axées sur l'entreprise."
+      ],
+      "tech": ["C#", ".NET 8", "ASP.NET Core", "Entity Framework", "Angular", "TypeScript", "SQL Server", "Azure DevOps", "Azure API Management", "CI/CD", "IIS", "Azure Functions", "Scrum", "REST API"]
+    },
+    {
+      "id": 2,
+      "company": "Sadipin Sarl",
+      "role": "Analyste Développeur .NET",
+      "period": "Fév 2023 – Avr 2024",
+      "description": "Conçu, développé et maintenu des applications web complexes tout en assurant performance, fiabilité et maintenabilité.",
+      "achievements": [
+        "Construit et maintenu des applications web ASP.NET et ASP.NET Core.",
+        "Conçu et modélisé des bases de données relationnelles avec SQL Server et MySQL.",
+        "Optimisé les requêtes SQL et les procédures stockées pour améliorer les performances des applications.",
+        "Implémenté des pipelines CI/CD utilisant GitHub Actions.",
+        "Développé des interfaces frontend utilisant React, TypeScript, WPF et Blazor."
+      ],
+      "tech": ["C#", "ASP.NET", "ASP.NET Core", "Entity Framework", "SQL Server", "MySQL", "React", "TypeScript", "Blazor", "WPF", "Git", "GitHub Actions", "REST API", "Linux", "Scrum"]
+    },
+    {
+      "id": 3,
+      "company": "Orange Cameroon",
+      "role": "Ingénieur Systèmes d'Information & Développeur Logiciel",
+      "period": "Déc 2021 – Fév 2023",
+      "description": "Contribué au développement de systèmes d'information d'entreprise, en se concentrant sur l'évolutivité, l'automatisation et la fiabilité du déploiement.",
+      "achievements": [
+        "Développé des applications web d'entreprise utilisant ASP.NET/Core et React.",
+        "Implémenté des pipelines CI/CD avec Azure DevOps.",
+        "Conteneurisé des applications utilisant Docker et travaillé avec des environnements Kubernetes.",
+        "Écrit des tests unitaires avec MSTest pour assurer la qualité du code.",
+        "Produit de la documentation technique et supporté les déploiements en production."
+      ],
+      "tech": ["C#", "ASP.NET", "ASP.NET Core", "React", "TypeScript", "SQL Server", "MySQL", "PostgreSQL", "Azure DevOps", "Azure Functions", "Docker", "Kubernetes", "MSTest", "REST API", "Linux", "Scrum"]
+    },
+    {
+      "id": 4,
+      "company": "Future Life Consulting",
+      "role": "Développeur Logiciel",
+      "period": "Fév 2018 – Nov 2021",
+      "description": "Travaillé sur des services backend et des systèmes pilotés par API, contribuant au développement de fonctionnalités et à l'optimisation du système.",
+      "achievements": [
+        "Développé des applications backend utilisant ASP.NET Core.",
+        "Intégré des interfaces frontend avec des API REST backend.",
+        "Implémenté de nouvelles fonctionnalités et optimisé les performances des API.",
+        "Diagnostiqué et corrigé des bugs tout en contribuant aux mises à niveau du système."
+      ],
+      "tech": ["C#", "ASP.NET Core", "SQL Server", "MySQL", "MongoDB", "REST API", "React", "Git", "Linux", "Scrum"]
+    },
+    {
+      "id": 5,
+      "company": "Digital Innovations Agency",
+      "role": "Développeur Laravel Full-Stack",
+      "period": "2017 - 2018",
+      "description": "Développé des applications web personnalisées et des produits SaaS utilisant Laravel et PHP moderne",
+      "achievements": [
+        "Livré plus de 20 projets Laravel pour des clients dans les domaines e-commerce, CRM et systèmes de réservation",
+        "Construit une plateforme SaaS multi-tenant intégrant plus de 150 entreprises dans les 6 premiers mois",
+        "Implémenté des jobs de file d'attente et du traitement en arrière-plan améliorant l'expérience utilisateur",
+        "Mentoré 4 développeurs juniors sur les bonnes pratiques Laravel et les modèles de conception"
+      ],
+      "tech": ["Laravel", "PHP", "MySQL", "Eloquent", "Livewire", "Vue.js", "Redis", "AWS", "Docker"]
+    }
+  ]
+}

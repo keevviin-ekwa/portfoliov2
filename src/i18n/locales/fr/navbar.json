@@ -1,0 +1,10 @@
+{
+  "brand": "kevin.dev",
+  "items": {
+    "about": "À propos",
+    "projects": "Projets",
+    "experience": "Expérience",
+    "contact": "Contact"
+  },
+  "mobileMenuToggle": "Basculer le menu"
+}

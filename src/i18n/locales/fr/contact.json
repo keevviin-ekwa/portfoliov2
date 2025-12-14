@@ -1,0 +1,12 @@
+{
+  "title": "Connectons-nous",
+  "subtitle": "Ouvert à discuter de nouvelles opportunités et de projets stimulants",
+  "getInTouch": "Contactez-moi",
+  "description": "À la recherche d'un développeur full-stack pour créer votre prochaine solution d'entreprise avec .NET ou Laravel ? Discutons de la façon dont je peux vous aider à concrétiser votre vision.",
+  "contactInfo": {
+    "email": "Email",
+    "phone": "Téléphone",
+    "location": "Localisation",
+    "locationValue": "Congo, RDC"
+  }
+}
