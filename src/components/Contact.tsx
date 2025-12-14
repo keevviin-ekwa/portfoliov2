@@ -91,7 +91,7 @@ export const Contact = () => {
                   </div>
                   <div>
                     <p className="text-sm text-textLight">{t('contact:contactInfo.email')}</p>
-                    <p className="font-semibold">kevin.ekwa@example.com</p>
+                    <p className="font-semibold">ekwabayard@gmail.com</p>
                   </div>
                 </motion.a>
 
